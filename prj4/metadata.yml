@@ -1,0 +1,12 @@
+---
+:id: 51861702
+:submitters:
+- :name: Tai Dang
+  :email: ttdang@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-27 17:51:34.178915000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-27 10:51:34.178915000 Z
+:status: processed
+:score: 90.0
